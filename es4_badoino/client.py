@@ -1,7 +1,7 @@
 import socket
 import time
 localIP= "127.0.0.1"
-localPort= 80
+localPort= 10000
 comando=""
 variabie=""
 stinga=""
